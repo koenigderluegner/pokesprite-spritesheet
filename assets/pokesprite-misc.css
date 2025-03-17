@@ -132,6 +132,8 @@
 .pokesprite.special-attribute.leaf-crown--shadow { width: 31px; height: 22px; background-position: -839px -84px }
 .pokesprite.special-attribute.mega-evolution-sigil-gen6 { width: 16px; height: 16px; background-position: -872px -84px }
 .pokesprite.special-attribute.mega-evolution-sigil { width: 16px; height: 16px; background-position: -890px -84px }
-.pokesprite.seals.move-physical { width: 32px; height: 14px; background-position: -908px -84px }
-.pokesprite.seals.move-special { width: 32px; height: 14px; background-position: -942px -84px }
-.pokesprite.seals.move-status { width: 32px; height: 14px; background-position: -976px -84px }
+.pokesprite.special-attribute.mega-evolution-sigil-hires { width: 28px; height: 28px; background-position: -908px -84px }
+.pokesprite.special-attribute.gigantamax-icon { width: 30px; height: 23px; background-position: -938px -84px }
+.pokesprite.seals.move-physical { width: 32px; height: 14px; background-position: -970px -84px }
+.pokesprite.seals.move-special { width: 32px; height: 14px; background-position: -1004px -84px }
+.pokesprite.seals.move-status { width: 32px; height: 14px; background-position: -1038px -84px }
