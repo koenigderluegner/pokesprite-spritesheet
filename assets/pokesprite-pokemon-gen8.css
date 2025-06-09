@@ -108,6 +108,7 @@
 .pokesprite.gloom { background-position: -1680px -116px }
 .pokesprite.gloom-f { background-position: -1680px -116px }
 .pokesprite.vileplume { background-position: -1750px -116px }
+.pokesprite.vileplume-f { background-position: -1750px -116px }
 .pokesprite.paras { background-position: -1820px -116px }
 .pokesprite.parasect { background-position: -1890px -116px }
 .pokesprite.venonat { background-position: -1960px -116px }
@@ -1824,6 +1825,7 @@
 .pokesprite.gloom.shiny { background-position: -1540px -2900px }
 .pokesprite.gloom-f.shiny { background-position: -1540px -2900px }
 .pokesprite.vileplume.shiny { background-position: -1610px -2900px }
+.pokesprite.vileplume-f.shiny { background-position: -1610px -2900px }
 .pokesprite.paras.shiny { background-position: -1680px -2900px }
 .pokesprite.parasect.shiny { background-position: -1750px -2900px }
 .pokesprite.venonat.shiny { background-position: -1820px -2900px }
